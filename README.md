@@ -7,3 +7,5 @@ Some info about me:
 - 📫 How to reach me:
   - Telegram @DemonikJR, 
   - Discord 悪魔(DemonikJR)#9500
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemonikJR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
